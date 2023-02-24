@@ -75,3 +75,5 @@ reset.addEventListener("click", () => {
   // boxTexts.innerText = "";
   document.querySelector(".line").style.width = "0vw";
 });
+
+//improvements - implement match draw case
